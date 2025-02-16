@@ -1,0 +1,37 @@
+body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #000;
+    font-family: sans-serif;
+}
+
+.center{
+    height: 40vh;
+    width: 55vh;
+    border: 8px solid grey;
+    margin-top: 12%;
+    background-color: rgb(35, 31, 31);
+    color: white;
+    text-align: center;
+}
+
+
+#banner{
+    margin-top: 75px;
+    font-size: 30px;
+}
+
+#clock{
+    height: 52px;
+    width: 60%;
+    border-radius: 15px;
+    background-color: white;
+    color: #000;
+    font-size: 30px;
+    font-weight: 400;
+    margin: 15px 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
